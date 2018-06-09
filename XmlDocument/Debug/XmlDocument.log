@@ -1,0 +1,8 @@
+﻿  XmlUtilities.cpp
+  XmlParser.cpp
+  xmlElementParts.cpp
+  XmlElement.cpp
+  XmlDocument.cpp
+  Tokenizer.cpp
+  Generating Code...
+  XmlDocument.vcxproj -> C:\Users\sonalpatil\Desktop\NoSqldb\Debug\XmlDocument.lib

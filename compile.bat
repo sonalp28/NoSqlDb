@@ -1,0 +1,1 @@
+devenv C:\Users\sonalpatil\Desktop\NoSqldb\NoSqldb.sln /rebuild debug

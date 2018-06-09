@@ -1,0 +1,142 @@
+
+  <noSqlDb>
+    <dbRecord>
+      <key>
+        New York
+      </key>
+      <value>
+        <name>
+          New York
+        </name>
+        <description>
+          US state
+        </description>
+        <dateTime>
+          Sat Jun  9 12:42:31 2018
+        </dateTime>
+        <children>
+          <childKey>
+            Syracuse
+          </childKey>
+          <childKey>
+            Buffalo
+          </childKey>
+        </children>
+      </value>
+      <payload>
+        <category>
+          State
+        </category>
+        <filepath>
+          ../file.cpp
+        </filepath>
+      </payload>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        Syracuse
+      </key>
+      <value>
+        <name>
+          Syracuse
+        </name>
+        <description>
+          NY city
+        </description>
+        <dateTime>
+          Sat Jun  9 12:42:31 2018
+        </dateTime>
+        <children>
+        </children>
+      </value>
+      <payload>
+        <category>
+          City
+        </category>
+        <filepath>
+          ../file.cpp
+        </filepath>
+      </payload>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        Buffalo
+      </key>
+      <value>
+        <name>
+          Buffalo
+        </name>
+        <description>
+          NY city
+        </description>
+        <dateTime>
+          Sat Jun  9 12:42:31 2018
+        </dateTime>
+        <children>
+        </children>
+      </value>
+      <payload>
+        <category>
+          City
+        </category>
+        <filepath>
+          ../file.cpp
+        </filepath>
+      </payload>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        California
+      </key>
+      <value>
+        <name>
+          California
+        </name>
+        <description>
+          US state
+        </description>
+        <dateTime>
+          Sat Jun  9 12:42:31 2018
+        </dateTime>
+        <children>
+          <childKey>
+            San Jose
+          </childKey>
+        </children>
+      </value>
+      <payload>
+        <category>
+          State
+        </category>
+        <filepath>
+          ../file.cpp
+        </filepath>
+      </payload>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        San Jose
+      </key>
+      <value>
+        <name>
+          San Jose
+        </name>
+        <description>
+          CA city
+        </description>
+        <dateTime>
+          Sat Jun  9 12:42:31 2018
+        </dateTime>
+        <children>
+        </children>
+      </value>
+      <payload>
+        <category>
+          City
+        </category>
+        <filepath>
+          ../file.cpp
+        </filepath>
+      </payload>
+    </dbRecord>
+  </noSqlDb>
